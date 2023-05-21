@@ -1,4 +1,4 @@
-Ji# Sparks Foundation Web Development Internship Project : Basic Banking System website. A web application used to transfer virtual money between multiple users and also record the banking transactions/ activities.
+Sparks Foundation Web Development Internship Project : Basic Banking System website. A web application used to transfer virtual money between multiple users and also record the banking transactions/ activities.
 
 
 The website has the following specification -
@@ -9,4 +9,4 @@ Transaction status: Transfer table/ Transfer History which records all the trans
 Flow : Home Page > View all customers > Select and View one customer >
  Transfer Money > Select customer to transfer to > View all Customers.
 
-Website link:- https://aniruddh414.github.io/
+Website link:- Shashankforcode2408.github.io
